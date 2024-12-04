@@ -8,4 +8,6 @@ db.sqlite3
 /lib
 /bin
 /include
+/setup/Lib/
+/setup/Scripts/
 pyvenv.cfg
